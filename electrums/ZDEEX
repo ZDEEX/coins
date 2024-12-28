@@ -1,0 +1,20 @@
+[
+   {
+      "url":"electrum.zdeex.org:17485",
+      "contact":[
+         {
+            "email":"contact@zdeex.org"
+         }
+      ]
+   },
+   {
+      "url":"electrum.zdeex.org:50002",
+      "protocol":"SSL",
+      "contact":[
+         {
+            "email":"contact@zdeex.org"
+         }
+      ],
+      "ws_url":"electrum.zdeex.org:50004"
+   }
+]
